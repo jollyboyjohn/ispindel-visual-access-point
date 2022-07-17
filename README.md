@@ -25,7 +25,7 @@ Benefits are:
 - Raspberry Pi Zero W
 - (Optional) Waveshare 2.13" Touch e-Paper Hat V2 (250x122)
 
-![Waveshare Touch e-Paper case with Raspberry Pi Zero W](/ispindel-eink-display)
+![Waveshare Touch e-Paper case with Raspberry Pi Zero W](/ispindel-eink-display.jpg)
 
 ## Packages Required
 ### Access Point

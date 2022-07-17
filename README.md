@@ -1,4 +1,4 @@
-# iSpindel Access Point
+# iSpindel Visual Access Point
 ## Summary
 An iSpindel is an IoT hydrometer used in fermenting. It floats on top of the 
 liquid, using the angle it is floating at to determine the density of the 
@@ -43,7 +43,7 @@ $ sudo apt-get install git python3-pip python3-pil python3-numpy
 
 These Python packages should already be active on the Raspberry Pi:
 ```
-sudo pip3 install RPi.GPIO spidev
+$ sudo pip3 install RPi.GPIO spidev
 ```
 
 ### This Repo

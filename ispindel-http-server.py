@@ -54,7 +54,7 @@ def displayOnEPaper(epd, data):
  
     # Other readings
     gravity = "Gravity: {:.3f}".format(data.get('gravity', 0.000))
-    battery = "Battery: {:.2f}".format(data.get('battery', 0.00))
+    battery = "Battery: {:.2f}V".format(data.get('battery', 0.00))
 
     # Create an image
     image = Image.new('1', (epd.height, epd.width), 255)
